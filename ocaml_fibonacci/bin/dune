@@ -1,0 +1,4 @@
+(executable
+ (public_name ocaml_fibonacci)
+ (name main)
+ (libraries ocaml_fibonacci))
